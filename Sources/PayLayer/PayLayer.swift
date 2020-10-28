@@ -1,3 +1,7 @@
-struct PayLayer {
+import Stripe
+
+
+public struct PayLayer {
     var text = "Hello, World!"
+    
 }
